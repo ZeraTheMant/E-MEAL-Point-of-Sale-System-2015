@@ -1,7 +1,10 @@
 # E-MEAL-Point-of-Sale-System-2015
 An electronic Point of Sale (POS) system made for E-Meal for my 2nd year mini-thesis at STI College Dasmariñas
 
-* REQUIRES MICROSOFT VISUAL STUDIO C# 2010*
+REQUIRES: 
+
+- MICROSOFT VISUAL STUDIO C# 2010
+- itextsharp library for c#
 
 Developed by Reuben Daniel E. Domondon from November 2014 to March 2015
 
